@@ -1,0 +1,8 @@
+﻿  Image Processing Test tool.cpp
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(181): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(181): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(210): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(210): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(301): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+c:\users\varga\source\repos\image processing test tool\image processing test tool\image processing test tool.cpp(301): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Image Processing Test tool.vcxproj -> C:\Users\varga\source\repos\Image Processing Test tool\x64\Debug\Image Processing Test tool.exe
